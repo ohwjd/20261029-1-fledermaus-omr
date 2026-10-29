@@ -103,14 +103,16 @@
             <score xml:id="score-1">
                <scoreDef xml:id="scoreDef-1" keysig="3s" optimize="true">
                   <staffGrp xml:id="staffGrp-1">
-                     <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
-                        <label xml:id="label-1">Flöte I</label>
-                     </staffDef>
-                     <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" trans.diat="7" trans.semi="12" meter.count="2" meter.unit="2">
-                        <label xml:id="label-2">Flöte II (Kleine Flöte)</label>
-                     </staffDef>
+                     <staffGrp xml:id="staffGrp-2" symbol="brace" bar.thru="true">
+                        <staffDef xml:id="staffDef-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
+                           <label xml:id="label-1">Flöte I</label>
+                        </staffDef>
+                        <staffDef xml:id="staffDef-2" n="2" lines="5" clef.shape="G" clef.line="2" trans.diat="7" trans.semi="12" meter.count="2" meter.unit="2">
+                           <label xml:id="label-2">Flöte II (Kleine Flöte)</label>
+                        </staffDef>
+                     </staffGrp>
                      <staffDef xml:id="staffDef-3" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="2" meter.unit="2">
-                        <label xml:id="label-3">Oboe i</label>
+                        <label xml:id="label-3">Oboe</label>
                      </staffDef>
                      <staffDef xml:id="staffDef-4" n="4" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="-2" trans.semi="-3" meter.count="2" meter.unit="2">
                         <label xml:id="label-4">Klarinette in A II</label>
