@@ -118,11 +118,11 @@
                      <staffDef xml:id="staffDef-5" n="5" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
                         <label xml:id="label-5">Fagott I II</label>
                      </staffDef>
-                     <staffDef xml:id="staffDef-6" n="6" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-6">I Horn ın F</label>
+                     <staffDef xml:id="staffDef-6" n="6" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="-4" trans.semi="-7" meter.count="2" meter.unit="2">
+                        <label xml:id="label-6">Horn in F</label>
                      </staffDef>
-                     <staffDef xml:id="staffDef-7" n="7" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
-                        <label xml:id="label-7">II</label>
+                     <staffDef xml:id="staffDef-7" n="7" lines="5" clef.shape="G" clef.line="2" keysig="0" trans.diat="-4" trans.semi="-7" meter.count="2" meter.unit="2">
+                        <label xml:id="label-7">Horn in F</label>
                      </staffDef>
                      <staffDef xml:id="staffDef-8" n="8" lines="5" clef.shape="G" clef.line="2" keysig="0" meter.count="2" meter.unit="2">
                         <label xml:id="label-8">Trompete ın F I II</label>
