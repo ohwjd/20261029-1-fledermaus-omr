@@ -154,7 +154,9 @@
                      <staffDef xml:id="staffDef-17" n="17" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2">
                         <label xml:id="label-17">Violoncello</label>
                      </staffDef>
-                     <staffDef xml:id="staffDef-18" n="18" lines="5" clef.shape="F" clef.line="4" meter.count="2" meter.unit="2"/>
+                     <staffDef xml:id="staffDef-18" n="18" lines="5" clef.shape="F" clef.line="4" trans.diat="-7" trans.semi="-12" meter.count="2" meter.unit="2">
+                        <label xml:id="label-18">Kontrabass</label>
+                     </staffDef>
                   </staffGrp>
                </scoreDef>
                <section xml:id="section-1">
